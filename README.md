@@ -1,2 +1,5 @@
-# Proyecto Lab_DispMoviles
- Punto de venta para tienda de abarrotes
+# abarrotes_galeana_app
+
+A new Flutter project.
+
+Prueba de commit
