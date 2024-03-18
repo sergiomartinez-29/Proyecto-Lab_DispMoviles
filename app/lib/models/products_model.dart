@@ -1,12 +1,12 @@
 // products_model.dart
 
 class Product {
-  final String id;
-  final String name;
-  final double price;
-  final String size;
-  final int stock;
-  final String photoUrl;
+  late String id;
+  late String name;
+  late double price;
+  late String size;
+  late int stock;
+  late String photoUrl;
 
   Product({
     required this.id,

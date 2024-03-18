@@ -44,7 +44,7 @@ class _AgregarProductoFormState extends State<AgregarProductoForm> {
       key: _formKey,
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
-        children: [/*
+        children: [/**/
           TextFormField(
             decoration: InputDecoration(labelText: 'ID del producto'),
             validator: (value) {
@@ -58,7 +58,7 @@ class _AgregarProductoFormState extends State<AgregarProductoForm> {
                 _nombre = _barcode;
               });
             },
-          ),*/
+          ),
           TextFormField(
             decoration: InputDecoration(labelText: 'Nombre del producto'),
             validator: (value) {
